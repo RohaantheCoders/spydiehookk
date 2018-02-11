@@ -1,0 +1,2 @@
+# spydiehookk
+rules explanatory bot
